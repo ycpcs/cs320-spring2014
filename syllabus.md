@@ -12,7 +12,7 @@ CS 320 - Software Engineering and Design
 
 Instructor:
 
--   [David Hovemeyer](http://faculty.ycp.edu/~dhovemey/), <dhovemey@ycp.edu>, KEC 113 \<br /\> Office hours: TBD
+-   [David Hovemeyer](http://faculty.ycp.edu/~dhovemey/), <dhovemey@ycp.edu>, KEC 113 <br /> Office hours: TBD
 
 Course Description
 ------------------
@@ -140,23 +140,6 @@ No make-up exams will be given without approval of the instructor prior to class
 ### Attendance and Participation
 
 We expect you to attend class and participate regularly in class activities. If you miss a class, please notify me in advance. You are responsible for all material covered in class, regardless of whether or not you were present. If you attend and participate in class regularly, you can expect to receive full credit for attendance and participation. Frequent absence and/or lack of participation will reduce the credit you receive for attendance and participation. You are responsible for keeping up with the reading assignments as described in the schedule below.
-
-### Professionalism
-
-We expect you to conduct yourself as a professional in this course. Professionalism includes:
-
--   Respect for and courteous interaction with peers, faculty and facilities;
--   Integrity, which includes at its core honesty, responsibility and accountability for one’s own actions;
--   Sensitivity and appreciation for diverse cultures, backgrounds, and life experiences;
--   Constructive evaluation, which means that criticism is offered and accepted in a productive manner;
--   Self-reflection and identification of one’s own strengths and weaknesses;
--   Responsibility for one’s own education and learning;
--   An attitude that fosters professional behavior in colleagues and peers;
--   Punctuality at meetings and class sessions;
--   Attentive behavior during class sessions, avoiding personal or social use of cell phones, laptops, or other electronic devices;
--   Acknowledgement of the Kinsley Engineering Center as a professional workplace, and treatment of this facility as a business or office space, not as an informal space.
-
-We reserve the right to enforce this code through the York College Code of Student Conduct.
 
 ### Use of Personal Technology in the Classroom
 
