@@ -12,7 +12,10 @@ All information about the course will be posted here.
 
 * [Syllabus](syllabus.html)
 * [Schedule](schedule.html)
+* [Assignments](assign/index.html)
 
 ## News
 
+* **Jan 22** - [Assignment 1](assign/assign01.html) is due Wednesday, Jan 29th
+  by 11:59 PM.
 * **Jan 22** - Welcome back!
