@@ -10,9 +10,14 @@ CS 320 - Software Engineering and Design
 
 **Spring 2014**
 
+Class times:
+
+- Section 102, M/W/F 11AM - 12PM in KEC 119
+- Section 103, M/W/F 1PM - 2PM in KEC 119
+
 Instructor:
 
--   [David Hovemeyer](http://faculty.ycp.edu/~dhovemey/), <dhovemey@ycp.edu>, KEC 113 <br /> Office hours: TBD
+-   [David Hovemeyer](http://faculty.ycp.edu/~dhovemey/), <dhovemey@ycp.edu>, KEC 113 <br /> Office hours: M/T/W/Th 2-3 PM, F 10-11 AM, or by arrangement
 
 Course Description
 ------------------
