@@ -6,8 +6,6 @@ title: Syllabus
 CS 320 - Software Engineering and Design
 ========================================
 
-*Note: preliminary syllabus, not official*
-
 **Spring 2014**
 
 Class times:
@@ -79,10 +77,12 @@ Grades are assigned on a 100-point scale:
 
 Your overall grade for the course will be determined as follows:
 
--   Individual assignments: 15%
+-   Individual assignments: 15% **(&dagger;)**
 -   Contributions to team project: 50% **(\*)**
 -   Midterm exams: 30%
 -   Attendance and participation: 5%
+
+**(&dagger;)** You must make a good faith effort to complete all of the assignments in order to pass the course.  Failure to complete all assignments is grounds for receiving a failing grade for the course.
 
 **(\*)** You must make a substantial *technical* contribution to your team software project. Although the non-technical contributions you make to your project, such as planning, communication, and organization, are important, you must also make a substantial contribution to the design and implementation of the software. I reserve the right to assign a failing grade for the course to any student who does not do this.
 
