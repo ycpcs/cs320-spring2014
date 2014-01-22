@@ -54,8 +54,8 @@ The key to developing good object-oriented software is figuring out what objects
 
 This is the distinction between *design* and *implementation*:
 
-> Design is figuring out WHAT the objects should do - their behavior
+> Design is figuring out WHAT the objects should do &mdash; their behavior
 >
 > Implementation is taking the desired behavior and figuring out HOW the behavior should be accomplished
 
-This course focuses mainly on the design (the WHAT).
+This course focuses mainly on the design (the WHAT), although the implementation (the HOW) will also be very important since you are required to build a system!
