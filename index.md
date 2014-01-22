@@ -14,6 +14,7 @@ All information about the course will be posted here.
 * [Schedule](schedule.html)
 * [Resources](resources/index.html)
 * [Assignments](assign/index.html)
+* [How to ask for help](http://faculty.ycp.edu/~dhovemey/askingForHelp.html)
 
 ## News
 
