@@ -34,6 +34,11 @@ In your description of the system, include sketches of what the user interface w
 Submitting
 ==========
 
-Submit your document in **plain text** or **PDF** format to Marmoset as **assign01**:
+Submit your document in **PDF** format to Marmoset as **assign01**:
 
 > <https://cs.ycp.edu/marmoset>
+
+<div class="callout">
+<b>Important</b>: Only submissions in PDF format will be accepted.
+Do not submit a document in any format!
+</div>
