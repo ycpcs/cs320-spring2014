@@ -40,5 +40,5 @@ Submit your document in **PDF** format to Marmoset as **assign01**:
 
 <div class="callout">
 <b>Important</b>: Only submissions in PDF format will be accepted.
-Do not submit a document in any format!
+Do not submit a document in any other format!
 </div>
