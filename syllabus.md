@@ -3,6 +3,8 @@ layout: default
 title: Syllabus
 ---
 
+*1/23* - Updated with correct link to reading assignments
+
 CS 320 - Software Engineering and Design
 ========================================
 
@@ -102,7 +104,7 @@ For example, if you have 5 unexcused absences, then your course grade will be re
 
 ### Reading Assignments
 
-Reading assignments are posted on the [Reading Assignments](reading.html) page.
+Reading assignments are posted on the [Schedule](schedule.html) page.
 
 Because we will be using class time primarily for discussion and activities, rather than lecture, it is important that you do the reading.
 
