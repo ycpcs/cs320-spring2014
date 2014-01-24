@@ -18,6 +18,8 @@ All information about the course will be posted here.
 
 ## News
 
+* **Jan 24** - Exam 1 will be handed out in class on Monday, Feb 24th and will
+  be due in class on Wednesday, Feb 26th.
 * **Jan 24** - [Assignment 3](assign/assign03.html) is due Monday, Feb 10th by 11:59 PM.
   [Assignment 4](assign/assign04.html) is due Monday, Feb 17th by 11:59 PM.
 * **Jan 24** - The [Schedule](schedule.html) has been updated.
