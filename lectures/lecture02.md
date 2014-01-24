@@ -56,6 +56,8 @@ Agile Processes
 
 Here is a sketch of what working within an agile process might look like.
 
+> <img style="width: 700px;" src="figures/xpProcess.png" />
+
 The customer is in continuous contact with the development team, and is continually
 
 -   explaining requirements (including changes to requirements)
