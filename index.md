@@ -18,6 +18,9 @@ All information about the course will be posted here.
 
 ## News
 
+* **Jan 24** - [Assignment 3](assign/assign03.html) is due Monday, Feb 10th by 11:59 PM.
+  [Assignment 4](assign/assign04.html) is due Monday, Feb 17th by 11:59 PM.
+* **Jan 24** - The [Schedule](schedule.html) has been updated.
 * **Jan 22** - [Assignment 1](assign/assign01.html) is due Wednesday, Jan 29th
   by 11:59 PM.  [Assignment 2](assign/assign02.html) is due Wednesday, Feb 5th
   by 11:59 PM.
