@@ -5,6 +5,8 @@ title: "Assignments"
 
 This page links to assignments.
 
+**Note**: For team projects, only **one** team member should submit the assignment.
+
 Assignment | Type | File(s) | Due
 ---------- | ---- | ------- | ---
 [Assignment 1: Team Project Proposal](assign01.html) | Team | n/a | Wednesday, Jan 29th by 11:59 PM
