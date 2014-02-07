@@ -19,6 +19,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **Feb 7** - The due dates for [Assignment 3](assign/assign03.html) and [Assignment 4](assign/assign04.html) have been changed to Wednesday, Feb 12th and Wednesday, Feb 19th, respectively.
 * **Feb 7** - The [Schedule](schedule.html) has been updated to compensate for the weather-related class cancellations.
 * **Feb 4** - The [Examples](examples.html) page contains example design artifacts, including the results of in-class activities. The results of the use cases exercises have been posted.
 * **Jan 24** - Exam 1 will be handed out in class on Monday, Feb 24th and will
