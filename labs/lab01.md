@@ -77,7 +77,7 @@ Next, choose **Team &rarr; Git &rarr; Configuration**.  Use **Add Entry...** to 
 > user.email | *your email*
 > user.name | *your name*
 > core.autocrlf | true
-> core.filemode | false
+> core.fileMode | false
 
 Use appropriate values for *your email* and *your name*. If you would prefer not to reveal your real name and email address, that's fine.
 

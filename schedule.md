@@ -25,11 +25,11 @@ Feb 5 | *No class due to weather* |
 Feb 7 | OO Analysis | [Lecture 5: OO Analysis](lectures/lecture05.html); HFOO, Chapter 4
 Feb 10 | OO Analysis, UML exercise | n/a
 Feb 12 | OO Design | [Lecture 6: OO Design, OCP, LSP](lectures/lecture06.html); Robert Martin, [Design Principles and Design Patterns](http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf), pages 1-12
-Feb 14 | Version control | [Git for Designers](http://hoth.entp.com/output/git_for_designers.html)
-Feb 17 | Version control lab | n/a
-Feb 19 | HTML and CSS | [Lecture 7: HTML and CSS](lectures/lecture07.html)
-Feb 21 | Dynamic HTML, JavaScript, jQuery | [Lecture 8: Dynamic HTML, JavaScript, jQuery](lectures/lecture08.html)
-Feb 24 | HTML/CSS/JavaScript lab | n/a
+Feb 14 | *No class due to weather* |
+Feb 17 | Version control | [Git for Designers](http://hoth.entp.com/output/git_for_designers.html)
+Feb 19 | Version control lab | n/a
+Feb 21 | HTML and CSS | [Lecture 7: HTML and CSS](lectures/lecture07.html)
+Feb 24 | Dynamic HTML, JavaScript, jQuery | [Lecture 8: Dynamic HTML, JavaScript, jQuery](lectures/lecture08.html)
 Feb 26 | Web applications <br /> <b>Exam 1 handed out</b> | [Lecture 9: Web applications](lectures/lecture09.html)
 Feb 28 | GWT, User interfaces <br /> <b>Exam 2 due in class</b> | [Lecture 10: GWT, User interfaces](lectures/lecture10.html)
 Mar 3 | Winter vacation, no class
