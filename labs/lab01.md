@@ -34,7 +34,7 @@ Execute the following commands in Cygwin terminal:
 	export HOME=/cygdrive/h
 	ls ~/.ssh
 
-If this command shows the files **id\_rsa** and **id\_rsa.pub**, then you can continue to Step 1.  Otherwise, execute the following commands:
+If this command shows the files **id\_rsa** and **id\_rsa.pub**, then you can continue to Step 2.  Otherwise, execute the following commands:
 
 ::
 
