@@ -70,7 +70,7 @@ Start Eclipse.  Choose **Window &rarr; Preferences &rarr;** to open the preferen
 
 Choose **General &rarr; Network Connections &rarr; SSH2**.  Make sure that **SSH2 home** is set to **H:/.ssh** and also that **Private keys** is set to **id\_dsa,id\_rsa**.
 
-Next, choose **Team &rarr; Git &rarr; Configuration**.  Use **Add Entry...** to create the following coniguration entries:
+Next, choose **Team &rarr; Git &rarr; Configuration**.  Use **Add Entry...** to create the following configuration entries:
 
 > Setting | Value
 > ------- | -----
