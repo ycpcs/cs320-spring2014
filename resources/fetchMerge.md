@@ -37,7 +37,7 @@ Click **OK**. This will take you to the "Configure Fetch" dialog:
 
 > ![image](figures/configureFetch1.png)
 
-In the "Configure Fetch" dialog, click the **Change...** button. Copy the "Git Read-Only" URI of your team member's public repository, and paste it into the URI field. The dialog should look something like this:
+In the "Configure Fetch" dialog, click the **Change...** button. Copy the "HTTPS" URI of your team member's public repository, and paste it into the URI field. The dialog should look something like this:
 
 > ![image](figures/selectUri.png)
 
