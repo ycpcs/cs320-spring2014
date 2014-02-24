@@ -10,7 +10,7 @@ An HTML document is a tree. Each node of the tree is an element or a chunk of te
 
 In a static HTML document, the tree is fixed.
 
-In a *dynamic* HTML document, the tree changes: nodes can be added or removed, and CSS properties can be changed. Dynamic HTML allows a full GUI to be implemented in a web page!
+In a *dynamic* HTML document, the tree changes in response to events (including user input events): nodes can be added or removed, and CSS properties can be changed. Dynamic HTML allows a full GUI to be implemented in a web page!
 
 Because dynamic HTML supports arbitrary runtime behavior, it needs a programming language to specify the behavior. This language is JavaScript.
 
