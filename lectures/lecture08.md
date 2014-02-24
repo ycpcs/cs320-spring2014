@@ -93,11 +93,11 @@ Showing/Hiding Elements
       </body>
     </html>
 
-[Link](lecture09/showhide.html)
+[Link](lecture08/showhide.html)
 
 Some things to notice:
 
-The **\<script\>** tag references some JavaScript code, either in a separate document or inline
+The **&lt;script&gt;** tag references some JavaScript code, either in a separate document or inline
 
 jQuery operations involve calling a function called "$".
 
