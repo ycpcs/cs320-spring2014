@@ -25,7 +25,7 @@ A Java web application consists of *servlets*, which allow the application to ha
 
 We could implement a traditional web application by having our servlets generate HTML directly. For example:
 
-    package edu.ycp.cs496.lab11.servlet;
+    package edu.ycp.cs320.lab11.servlet;
 
     import java.io.IOException;
 
@@ -143,7 +143,7 @@ Mostly, the view is just HTML. However, there are a couple of JSP-specific detai
 
 Next, the servlet which handles the requests:
 
-    package edu.ycp.cs496.lab11.servlet;
+    package edu.ycp.cs320.lab11.servlet;
 
     import java.io.IOException;
 
@@ -152,7 +152,7 @@ Next, the servlet which handles the requests:
     import javax.servlet.http.HttpServletRequest;
     import javax.servlet.http.HttpServletResponse;
 
-    import edu.ycp.cs496.lab11.controller.AddNumbersController;
+    import edu.ycp.cs320.lab11.controller.AddNumbersController;
 
     public class AddNumbersServlet extends HttpServlet {
       private static final long serialVersionUID = 1L;
@@ -214,7 +214,7 @@ Because only model objects are involved, it would be easy to test the behavior o
 
 Finally, the controller:
 
-    package edu.ycp.cs496.lab11.controller;
+    package edu.ycp.cs320.lab11.controller;
 
     public class AddNumbersController {
       public Double add(Double first, Double second) {
@@ -226,7 +226,7 @@ Although this controller is trivial, in general a controller can be used to impl
 
 A good test that you have abstracted the controller well is that it is relatively easy to write JUnit tests:
 
-    package edu.ycp.cs496.lab11.controller;
+    package edu.ycp.cs320.lab11.controller;
 
     import static org.junit.Assert.*;
 
