@@ -160,7 +160,7 @@ Next, the servlet which handles the requests:
       @Override
       protected void doGet(HttpServletRequest req, HttpServletResponse resp)
           throws ServletException, IOException {
-        req.getRequestDispatcher("/view/addNumbers.jsp").forward(req, resp);
+        req.getRequestDispatcher("/_view/addNumbers.jsp").forward(req, resp);
       }
 
       @Override
@@ -193,7 +193,7 @@ Next, the servlet which handles the requests:
         req.setAttribute("result", result);
 
         // Forward to view to render the result HTML document
-        req.getRequestDispatcher("/view/addNumbers.jsp").forward(req, resp);
+        req.getRequestDispatcher("/_view/addNumbers.jsp").forward(req, resp);
       }
 
       private Double getDoubleFromParameter(String s) {
