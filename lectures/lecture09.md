@@ -139,7 +139,7 @@ Here is the code. First, the view JSP:
 Mostly, the view is just HTML. However, there are a couple of JSP-specific details to notice:
 
 -   The directive **&lt;%@ taglib uri="<http://java.sun.com/jsp/jstl/core>" prefix="c" %&gt;** specifies that we want to use the JSTL core tag library. This allows us to use special tags for things like conditionals and loops. You will notice that we use the **&lt;c:if&gt;** tag to conditionally display an error message if the servlet has specified one.
--   The syntax **\${** *...* **}** specifies a JSTL expression. JSTL expressions can be used to include dynamic content into the HTML document. The JSP above uses this syntax to substitute the values for the first and second input number, the result, and (if there is one) an error message.
+-   The syntax **${** *...* **}** specifies a JSTL expression. JSTL expressions can be used to include dynamic content into the HTML document. The JSP above uses this syntax to substitute the values for the first and second input number, the result, and (if there is one) an error message.
 
 Next, the servlet which handles the requests:
 
