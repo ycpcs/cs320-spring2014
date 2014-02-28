@@ -11,4 +11,4 @@ Violet UML: [violetumleditor-2.0.0.jar](violetumleditor-2.0.0.jar)
 
 [Example GWT Game](https://github.com/daveho/GWTGame)
 
-[Example GWT Webapp](https://github.com/daveho/Pizza)
+[Example GWT Webapp](https://github.com/daveho/Pizza2)
