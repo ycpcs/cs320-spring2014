@@ -36,27 +36,27 @@ Mar 3 | Winter vacation, no class
 Mar 5 | Winter vacation, no class
 Mar 7 | Winter vacation, no class
 Mar 10 | GWT lab | n/a
-Mar 12 |
-Mar 14 |
-Mar 17 |
+Mar 12 | Databases, SQL | [Lecture 11: Relational Databases](lectures/lecture11.html)
+Mar 14 | Progress reports
+Mar 17 | Database Applications, JDBC | [Lecture 12: Database Applications, JDBC](lectures/lecture12.html)
 Mar 19 |
-Mar 21 |
+Mar 21 | Progress reports
 Mar 24 |
 Mar 26 |
-Mar 28 |
+Mar 28 | Progress reports
 Mar 31 |
 Apr 2 |
-Apr 4 |
+Apr 4 | Progress reports
 Apr 7 |
 Apr 9 |
-Apr 11 |
+Apr 11 | Progress reports
 Apr 14 |
 Apr 16 |
 Apr 18 | Spring vacation, no class
 Apr 21 | Spring vacation, no class
 Apr 28 |
-Apr 30 |
+Apr 30 | Progress reports
 May 2 |
 May 5 |
-May 7 |
+May 7 | Progress reports
 
