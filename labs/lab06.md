@@ -47,3 +47,15 @@ Try executing some queries to retrieve the following information:
 -   the author name (first and last) and the ISBN number of the book with the title "First Flights in Witchcraft"
 
 Each query should be terminated with a semicolon (**;**). For example, here is session showing a query to select all of the tuples in the **authors** table (user input in **bold**):
+
+<pre>
+SQL> <b>select * from authors;</b>
+author_id author_lastname author_firstname
+--------- --------------- ----------------
+        1     Smallfinger             F.G.
+        2       Whittlbey           W.H.J.
+        3          Earwig          Lettice
+        4         Lightly             W.E.
+        5        Tacticus           Callus
+OK (5 rows(s))
+</pre>
