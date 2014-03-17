@@ -8,7 +8,7 @@ Getting Started
 
 Download [CS320\_Lab07.zip](CS320_Lab07.zip). Import it into your Eclipse workspace (**File&rarr;Import...&rarr;General&rarr;Existing projects into workspace&rarr;Archive File**). You will see a project called **CS320\_Lab07** in the Package Explorer.
 
-The lab contains a database called **test.db** which is the books database described in [Lecture 11](../lecture/lecture11.html).
+The lab contains a database called **test.db** which is the books database described in [Lecture 11](../lectures/lecture11.html).
 
 You may work individually or with a small group.
 
