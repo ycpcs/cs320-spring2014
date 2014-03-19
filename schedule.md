@@ -39,7 +39,7 @@ Mar 10 | GWT lab | n/a
 Mar 12 | Databases, SQL | [Lecture 11: Relational Databases](lectures/lecture11.html)
 Mar 14 | Progress reports
 Mar 17 | Database Applications, JDBC | [Lecture 12: Database Applications, JDBC](lectures/lecture12.html)
-Mar 19 |
+Mar 19 | ORM | [Lecture 13: ORM, Designing a Persistence Layer](lectures/lecture13.html)
 Mar 21 | Progress reports
 Mar 24 |
 Mar 26 |
@@ -60,3 +60,6 @@ May 2 |
 May 5 |
 May 7 | Progress reports
 
+<!-- vim:set wrap: ­-->
+<!-- vim:set linebreak: -->
+<!-- vim:set nolist: -->

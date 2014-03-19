@@ -14,3 +14,4 @@ This page links to labs.
 > Mar 10 | [Lab 5: GWT Calculator](lab05.html)
 > Mar 12 | [Lab 6: SQL, Queries, Joins](lab06.html)
 > Mar 17 | [Lab 7: JDBC](lab07.html)
+> Mar 19 | [Lab 8: ORM](lab08.html)
