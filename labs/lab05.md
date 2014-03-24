@@ -15,7 +15,7 @@ You should see a project called **CS320\_Lab05** in your Eclipse workspace.
 
 Your task is to implement a simple calculator that looks something like this:
 
-(TODO: screenshot.)
+<img style="margin-left: 40px;" alt="Screenshot" src="images/lab05/screenshot.png">
 
 # Hints
 
