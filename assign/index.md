@@ -14,3 +14,4 @@ Assignment | Type | File(s) | Due
 [Assignment 3: Use Cases](assign03.html) | Team | n/a | <strike>Monday, Feb 10th</strike> Wednesday, Feb 12th by 11:59 PM
 [Assignment 4: Problem Domain Analysis](assign04.html) | Team | n/a | <strike>Monday, Feb 17th</strike> Wednesday, Feb 19th by 11:59 PM
 [Assignment 5: Team Project Milestones](assign05.html) | Team | n/a | see description
+[Assignment 6: Individual Project Milestones](assign06.html) | Individual | n/a | see description
