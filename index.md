@@ -20,6 +20,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **Apr 1** - [Individual project milestones](assign/assign06.html) have been posted.
 * **Mar 12** - The [Schedule](schedule.html) has been updated.
 * **Feb 19** - The [Schedule](schedule.html) has been updated to compensate for the canceled class on Feb 14th.
 * **Feb 7** - The due dates for [Assignment 3](assign/assign03.html) and [Assignment 4](assign/assign04.html) have been changed to Wednesday, Feb 12th and Wednesday, Feb 19th, respectively.
