@@ -15,6 +15,6 @@ Assignment | Type |  Due
 [Assignment 4: Problem Domain Analysis](assign04.html) | Team | <strike>Monday, Feb 17th</strike> Wednesday, Feb 19th by 11:59 PM
 [Assignment 5: Team Project Milestones](assign05.html) | Team | see description
 [Assignment 6: Individual Project Milestones](assign06.html) | Individual | see description
-[Assignment 7: Team Project Deliverables](assign07.html) | Team | Report due Friday, May 9th by 11:59 PM
+[Assignment 7: Team Project Deliverables](assign07.html) | Team | Report due Friday, May 9th by 11:59 PM <br> Presentations on Wednesday, May 14th
 [Assignment 8: Team Project Reflection](assign08.html) | Individual | Reflection due Friday, May 9th by 11:59 PM
 [Assignment 9: Individual Project Deliverables](assign09.html) | Individual | Report due Friday, May 9th by 11:59 PM

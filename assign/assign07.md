@@ -5,10 +5,10 @@ title: "Assignment 7: Team Project Deliverables"
 
 **Code and report due:** Friday, May 9th by 11:59
 
-**Presentations**: *date*
+**Presentations**: Wednesday, May 14th
 
--   Section 102: *time*
--   Section 103: *time*
+-   Section 102: 10:15 AM &ndash; 12:15 PM
+-   Section 103: 12:45 PM &ndash; 2:45 PM
 
 This is a **team** assignment
 
