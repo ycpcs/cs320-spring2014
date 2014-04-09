@@ -59,4 +59,6 @@ Submitting
 
 Upload your reflection in **plain text** or **PDF** format to Marmoset as **assign08reflection**.
 
-Use *only* plain text of PDF: do *not* upload a Microsoft Word or rich text document.
+<div class="callout">
+Your reflection <em>must</em> be submitted in plain text or PDF format.  Submissions in any other format may receive a grade of 0.
+</div>
