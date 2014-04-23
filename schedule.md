@@ -54,9 +54,11 @@ Apr 14 |
 Apr 16 |
 Apr 18 | Spring vacation, no class
 Apr 21 | Spring vacation, no class
-Apr 28 |
-Apr 30 | Progress reports
-May 2 |
+Apr 23 |
+Apr 25 | Progress reports
+Apr 28 | Extreme Programming | XP, Chapters 1&ndash;10
+Apr 30 | **Exam 2 handed out**
+May 2 | Progress reports <br> **Exam 2 due in class**
 May 5 |
 May 7 | Progress reports
 
