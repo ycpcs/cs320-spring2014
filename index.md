@@ -20,6 +20,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **Apr 9** - The instructions for [team project deliverables](assign/assign07.html), the [team project reflections](assign/assign08.html), and [individual project deliverables](assign/assign09.html) are available.
 * **Apr 1** - [Individual project milestones](assign/assign06.html) have been posted.
 * **Mar 12** - The [Schedule](schedule.html) has been updated.
 * **Feb 19** - The [Schedule](schedule.html) has been updated to compensate for the canceled class on Feb 14th.
