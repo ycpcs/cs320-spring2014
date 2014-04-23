@@ -20,6 +20,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **Apr 23** - The [Schedule](schedule.html) has been updated.  We will discuss Extreme Programming in class on Monday, Apr 28th.  Exam 2 will be handed out in class on Wednesday, Apr 30th and will be due *in class* on Friday, May 2nd.
 * **Apr 9** - The instructions for [team project deliverables](assign/assign07.html), the [team project reflections](assign/assign08.html), and [individual project deliverables](assign/assign09.html) are available.
 * **Apr 1** - [Individual project milestones](assign/assign06.html) have been posted.
 * **Mar 12** - The [Schedule](schedule.html) has been updated.
