@@ -12,7 +12,7 @@ The individual project milestones are as follows:
 > Date | Milestone
 > ---- | ---------
 > Wed, April 16 | Baseline
-> Wed, May 1st | Progress update 
+> Monday, May 5 | Progress update 
 
 ## Additional details
 
