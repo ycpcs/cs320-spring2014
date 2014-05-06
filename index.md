@@ -20,6 +20,7 @@ All information about the course will be posted here.
 
 ## News
 
+* **May 6** - The [Self/Peer Evaluation](assign/assign10.html) is due Tuesday, May 13th by 11:59 PM.
 * **May 2** - Please see the [Resources](resources/index.html) page for important information about how to specify a JDBC URL when you reimplement your persistence layer using Derby.
 * **Apr 28** - The second milestone for the individual assignment has been moved to Monday, May 5th.
 * **Apr 23** - The [Schedule](schedule.html) has been updated.  We will discuss Extreme Programming in class on Monday, Apr 28th.  Exam 2 will be handed out in class on Wednesday, Apr 30th and will be due *in class* on Friday, May 2nd.
