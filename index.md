@@ -20,6 +20,20 @@ All information about the course will be posted here.
 
 ## News
 
+* **May 7** - The final presentations will take place on Wednesday, May 14th.  The presentation order is as follows:
+  - 10:15 AM - 12:50 PM:
+    - Koehler/Mashuda/Reichner/Scalco
+    - Corso/Henry/Nguyen
+    - Davis/Fioravanti
+    - Glotfelter/Parshall
+    - Bechtold/Hatton
+    - Hammett/Reale
+    - Burnsworth/Salazar
+  - 12:45 PM - 2:45 PM
+    - Bogart/Nelson
+    - Decker/Forry/Muckerman/Yealy
+    - Cope/Lopez/Schmidt/Specht
+    - Dao/Honer/Musco
 * **May 6** - The [Self/Peer Evaluation](assign/assign10.html) is due Tuesday, May 13th by 11:59 PM.
 * **May 2** - Please see the [Resources](resources/index.html) page for important information about how to specify a JDBC URL when you reimplement your persistence layer using Derby.
 * **Apr 28** - The second milestone for the individual assignment has been moved to Monday, May 5th.
