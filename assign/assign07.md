@@ -47,25 +47,25 @@ Your report <em>must</em> be submitted in plain text or PDF format.  Submissions
 The Presentation
 ----------------
 
-As the conclusion of your team project, your group will give a presentation of about 15-20 minutes.
+As the conclusion of your team project, your group will give a presentation of no more than 15 minutes.
 
 Here is a suggested structure for your presentation, with approximate times to spend on each part:
 
 > **1.** Background: (2 minutes) What problem were you trying to solve? Discuss the system requirements.
 >
-> **2.** Analysis and design: (8 minutes) Discuss your design model. In this part of the presentation, you must show a UML class diagram illustrating the *most important* classes and methods in your system, and how they relate/interact with each other. Use [Violet UML](../resources/index.html) to create the diagram. In order for the diagram to be legible during the presentation, it should contain at most 8 or so classes, and each class should show at most 1-3 methods. You can use multiple diagrams if you want to show more classes than would fit in a single diagram.
+> **2.** Analysis and design: (3 minutes) Discuss your design model. In this part of the presentation, you must show a UML class diagram illustrating the *most important* classes and methods in your system, and how they relate/interact with each other. Use [Violet UML](../resources/index.html) to create the diagram. In order for the diagram to be legible during the presentation, it should contain at most 8 or so classes, and each class should show at most 1-3 methods. You can use multiple diagrams if you want to show more classes than would fit in a single diagram.
 >
-> This is also a good opportunity to discuss how the design of the system changed as you worked on the implementation. **Do a dry run of the demonstration before the presentation.**
+> This is also a good opportunity to discuss how the design of the system changed as you worked on the implementation.
 >
-> **3.** Implementation: (5 minutes) What were the most interesting things you learned when you implemented the system? If you used any interesting programming techniques, this is a good opportunity to discuss them.
+> **3.** Implementation: (3 minutes) What were the most interesting things you learned when you implemented the system? If you used any interesting programming techniques, this is a good opportunity to discuss them.
 >
 > **4.** Demonstration: (5 minutes) Show your system working. Demonstrate the most important/interesting features.
 >
 > **5.** Conclusions: (2 minutes) Sum up what you learned. If there are aspects of the project you would do differently if you started again from scratch, mention them. You can also talk about how you might want to extend the system in the future.
 
-Your presentation should include no more than 10 slides.
+Your presentation should include no more than 6 slides.
 
-Please rehearse your presentation!
+Please rehearse your presentation! **Do a dry run of the demonstration before the presentation.**  Make absolutely sure everything is working and ready to go before you present.
 
 All of the members of your group must participate in the presentation.
 
