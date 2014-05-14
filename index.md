@@ -21,7 +21,7 @@ All information about the course will be posted here.
 ## News
 
 * **May 7** - The final presentations will take place on Wednesday, May 14th.  The presentation order is as follows:
-  - 10:15 AM - 12:50 PM:
+  - 10:15 AM - 12:15 PM:
     - Koehler/Mashuda/Reichner/Scalco
     - Corso/Henry/Nguyen
     - Davis/Fioravanti
